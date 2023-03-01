@@ -5,6 +5,7 @@ public class TesteGerente {
         g1.setCpf("18736818798");
         g1.setSalario(5000.0);
         g1.setSenha(101010);
+        g1.setSenha(10101);
 
         System.out.println(g1.getNome());
         System.out.println(g1.getCpf());
